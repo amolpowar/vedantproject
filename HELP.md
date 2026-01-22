@@ -30,3 +30,5 @@ If you manually switch to a different parent and actually want the inheritance, 
 
 Before you push the code make sure to pull it first
 
+ok understood
+
